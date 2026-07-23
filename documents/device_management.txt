@@ -1,0 +1,5 @@
+Device management platforms monitor and control connected devices throughout their lifecycle.
+
+They support configuration, software updates, health monitoring, and troubleshooting.
+
+Modern device management solutions often use cloud services and local processing to improve reliability and security.
