@@ -1,5 +1,5 @@
 from sentence_transformers import SentenceTransformer
-from config import EMBEDDING_MODEL
+from app.config import EMBEDDING_MODEL
 
 
 # Load embedding model once when the application starts

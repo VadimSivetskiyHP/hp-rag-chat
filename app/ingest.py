@@ -1,7 +1,7 @@
-from document_loader import load_documents
-from chunker import chunk_text
-from embedder import embed_documents
-from vector_store import create_vector_store
+from app.document_loader import load_documents
+from app.chunker import chunk_text
+from app.embedder import embed_documents
+from app.vector_store import create_vector_store
 
 
 def main():
@@ -39,6 +39,11 @@ def main():
     )
 
     print("Ingestion complete")
+
+
+def rebuild_index():
+
+    main()
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 import requests
 
-from config import LLM_MODEL
+from app.config import LLM_MODEL
 
 
 OLLAMA_URL = "http://localhost:11434/api/generate"

@@ -3,7 +3,7 @@ import pickle
 import faiss
 import numpy as np
 
-from config import (
+from app.config import(
     VECTOR_STORE_DIR,
     INDEX_FILE,
     CHUNKS_FILE

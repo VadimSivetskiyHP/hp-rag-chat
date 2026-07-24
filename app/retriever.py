@@ -2,8 +2,8 @@ import faiss
 import pickle
 import numpy as np
 
-from embedder import embed_documents
-from config import INDEX_FILE, CHUNKS_FILE
+from app.embedder import embed_documents
+from app.config import INDEX_FILE, CHUNKS_FILE
 
 
 def load_vector_store():

@@ -1,6 +1,6 @@
 import nltk
 
-from config import CHUNK_SIZE
+from app.config import CHUNK_SIZE
 
 
 def chunk_text(text):

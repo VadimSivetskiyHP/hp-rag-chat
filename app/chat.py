@@ -1,6 +1,6 @@
-from retriever import search
-from llm import generate_answer
-from config import DEBUG_MODE
+from app.retriever import search
+from app.llm import generate_answer
+from app.config import DEBUG_MODE
 
 
 def display_sources(results):
