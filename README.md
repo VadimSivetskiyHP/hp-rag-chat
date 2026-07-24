@@ -394,14 +394,14 @@ I don't have enough information in the provided documents.
 
 Possible enhancements:
 
-* Streaming token responses
-* Larger document collections
-* Advanced reranking models
-* Hybrid keyword + semantic retrieval
-* Automated document monitoring
-* Cloud deployment option
-* User authentication
-* Persistent conversation storage
+* Streaming token-by-token responses for improved user experience
+* Support for larger document collections and enterprise knowledge bases
+* Advanced reranking models to improve retrieval accuracy
+* Hybrid retrieval combining keyword search and semantic embeddings
+* Automated document monitoring and incremental re-indexing
+* Persistent conversation history and session management
+* Multi-user access control and authentication
+* Deployment options for enterprise environments
 
 ---
 
